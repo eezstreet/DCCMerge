@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+/DCCMerge/DCCMerge/Debug
+/DCCMerge/DCCMerge.opensdf
+/DCCMerge/DCCMerge.sdf
+/DCCMerge/DCCMerge.v12.suo
